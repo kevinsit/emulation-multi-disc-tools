@@ -1,0 +1,5 @@
+services:
+  converter:
+    build: .
+    volumes:
+      - .:/data

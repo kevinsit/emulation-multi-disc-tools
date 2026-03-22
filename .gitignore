@@ -1,0 +1,8 @@
+to_process/
+.DS_Store
+*.chd
+*.m3u
+organized/
+*.iso
+*.cue
+*.bin
